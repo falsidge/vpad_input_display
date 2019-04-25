@@ -1,4 +1,5 @@
-# VPAD Input viewer
+# VPAD Input Display
+This uses code from libutilswut and vpad_input_logger from WUPS Plugin Playground to send inputs over the network for a client to recieve and display the inputs. 
 
 # Wii U Plugin System
 This is a plugin for the [Wii U Plugin System (WUPS)](https://github.com/Maschell/WiiUPluginSystem/). To be able to use this plugin you have to place the resulting `.mod` file into the following folder:
